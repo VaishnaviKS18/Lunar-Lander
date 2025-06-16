@@ -1,0 +1,4 @@
+gymnasium[atari,accept-rom-license,box2d]
+torch
+numpy
+imageio
